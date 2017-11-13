@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crop</string>
+    <string name="action_select">Pick</string>
+</resources>
